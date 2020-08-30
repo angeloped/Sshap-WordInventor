@@ -1,0 +1,11 @@
+{'origin': 'ought', 'forged': ['khwn', 'KХЦN'], 'suggest': ['', ''], 'relatives': ['khwn', 'ought']}
+{'origin': 'may', 'forged': ['mai', 'MΛI'], 'suggest': ['', ''], 'relatives': ['mag', 'kan', 'mai', 'mei', 'may', 'mee', 'mayo', 'mayis']}
+{'origin': 'could', 'forged': ['kon', 'KON'], 'suggest': ['', ''], 'relatives': ['kon', 'could']}
+{'origin': 'would', 'forged': ['k', 'K'], 'suggest': ['', ''], 'relatives': ['k', 'would']}
+{'origin': 'shall', 'forged': ['sal', 'СΛL'], 'suggest': ['', ''], 'relatives': ['sal', 'soll', 'skal', 'shall']}
+{'origin': 'can', 'forged': ['kan', 'KΛN'], 'suggest': ['', ''], 'relatives': ['can', 'kan', 'kann']}
+{'origin': 'will', 'forged': ['vil', 'VIL'], 'suggest': ['', ''], 'relatives': ['ay', 'vil', 'will']}
+{'origin': 'might', 'forged': ['magt', 'MΛΓT'], 'suggest': ['mag', 'MΛΓ'], 'relatives': ['mag', 'magt', 'might', 'macht']}
+{'origin': 'ca', 'forged': ['ca', 'KΛ'], 'suggest': ['o', 'O'], 'relatives': ['o', 'or', 'at', 'ze', 'ca', 'nn', 'na', 'che', 'das', 'dat']}
+{'origin': 'must', 'forged': ['must', 'MUСT'], 'suggest': ['', ''], 'relatives': ['ma', 'must', 'moet', 'muss']}
+{'origin': 'should', 'forged': ['bor', 'VOR'], 'suggest': ['', ''], 'relatives': ['bor', 'should']}

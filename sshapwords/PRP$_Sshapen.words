@@ -1,0 +1,7 @@
+{'origin': 'his', 'forged': ['his', 'ХIС'], 'suggest': ['', ''], 'relatives': ['sy', 'his', 'hans']}
+{'origin': 'her', 'forged': ['her', 'ХΣR'], 'suggest': ['', ''], 'relatives': ['su', 'ei', 'her', 'ihr', 'jej', 'haar']}
+{'origin': 'our', 'forged': ['our', 'OUR'], 'suggest': ['', ''], 'relatives': ['our', 'mer', 'ons']}
+{'origin': 'my', 'forged': ['mi', 'MI'], 'suggest': ['my', 'MY'], 'relatives': ['my', 'mi', 'im', 'min', 'mou', 'moi', 'moj', 'mon']}
+{'origin': 'its', 'forged': ['sus', 'СUС'], 'suggest': ['', ''], 'relatives': ['sy', 'sus', 'its', 'ses', 'nito']}
+{'origin': 'your', 'forged': ['jou', 'JOU'], 'suggest': ['', ''], 'relatives': ['tu', 'jou', 'jouw', 'your']}
+{'origin': 'their', 'forged': ['hir', 'ХIR'], 'suggest': ['', ''], 'relatives': ['su', 'hir', 'their']}

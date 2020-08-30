@@ -1,0 +1,258 @@
+{'origin': 'nevertheless', 'forged': ['namun', 'NΛMUN'], 'suggest': ['', ''], 'relatives': ['namun', 'nevertheless']}
+{'origin': 'first', 'forged': ['first', 'FIRСT'], 'suggest': ['', ''], 'relatives': ['kn', 'first', 'forst']}
+{'origin': 'easily', 'forged': ['let', 'LΣT'], 'suggest': ['', ''], 'relatives': ['let', 'easily']}
+{'origin': 'completely', 'forged': ['helt', 'ХΣLT'], 'suggest': ['', ''], 'relatives': ['helt', 'completely']}
+{'origin': 'premiere', 'forged': ['premiera', 'ПRΣMIΣRΛ'], 'suggest': ['', ''], 'relatives': ['gala', 'premera', 'premier', 'premiere', 'premiera']}
+{'origin': 'increasingly', 'forged': ['riyi', 'RIYI'], 'suggest': ['', ''], 'relatives': ['riyi', 'increasingly']}
+{'origin': 'even', 'forged': ['sae', 'СΛΣ'], 'suggest': ['', ''], 'relatives': ['sae', 'even']}
+{'origin': 'primarily', 'forged': ['juro', 'JURO'], 'suggest': ['', ''], 'relatives': ['juro', 'primarily']}
+{'origin': 'once', 'forged': ['dan', 'ΔΛN'], 'suggest': ['', ''], 'relatives': ['dan', 'once']}
+{'origin': 'anyway', 'forged': ['parin', 'ПΛRIN'], 'suggest': ['', ''], 'relatives': ['parin', 'anyway']}
+{'origin': 'ever', 'forged': ['je', 'JΣ'], 'suggest': ['', ''], 'relatives': ['je', 'ever']}
+{'origin': 'kelly', 'forged': ['kelli', 'KΣLLI'], 'suggest': ['keli', 'KΣLI'], 'relatives': ['keli', 'kelli', 'kully', 'kelly', 'kelri']}
+{'origin': 'approximately', 'forged': ['an', 'ΛN'], 'suggest': ['', ''], 'relatives': ['an', 'approximately']}
+{'origin': 'quarterly', 'forged': ['jikan', 'JIKΛN'], 'suggest': ['', ''], 'relatives': ['jikan', 'quarterly']}
+{'origin': 'previously', 'forged': ['dati', 'ΔΛTI'], 'suggest': ['', ''], 'relatives': ['dati', 'previously']}
+{'origin': 'physically', 'forged': ['fisies', 'FIСIΣС'], 'suggest': ['', ''], 'relatives': ['fisies', 'physically']}
+{'origin': 'regardless', 'forged': ['ongeag', 'ONΓΣΛΓ'], 'suggest': ['', ''], 'relatives': ['ongeag', 'regardless']}
+{'origin': 'immediately', 'forged': ['kohe', 'KOХΣ'], 'suggest': ['', ''], 'relatives': ['kohe', 'immediately']}
+{'origin': 'thus', 'forged': ['dus', 'ΔUС'], 'suggest': ['', ''], 'relatives': ['dus', 'thus']}
+{'origin': 'rapidly', 'forged': ['brzo', 'VRZO'], 'suggest': ['', ''], 'relatives': ['brzo', 'rapidly']}
+{'origin': 'only', 'forged': ['kun', 'KUN'], 'suggest': ['', ''], 'relatives': ['kun', 'only']}
+{'origin': 'actually', 'forged': ['qishi', 'KЦIСХI'], 'suggest': ['', ''], 'relatives': ['qishi', 'actually']}
+{'origin': 'properly', 'forged': ['sosta', 'СOСTΛ'], 'suggest': ['', ''], 'relatives': ['sosta', 'properly']}
+{'origin': 'prior', 'forged': ['kn', 'KN'], 'suggest': ['', ''], 'relatives': ['kn', 'prior']}
+{'origin': 'recently', 'forged': ['nylig', 'NYLIΓ'], 'suggest': ['', ''], 'relatives': ['nylig', 'recently']}
+{'origin': 'differently', 'forged': ['weiu', 'ЦΣIU'], 'suggest': ['', ''], 'relatives': ['weiu', 'differently']}
+{'origin': 'perfectly', 'forged': ['perfect', 'ПΣRFΣKT'], 'suggest': ['', ''], 'relatives': ['an', 'perfect', 'perfectly']}
+{'origin': 'significantly', 'forged': ['keuge', 'KΣUΓΣ'], 'suggest': ['', ''], 'relatives': ['keuge', 'significantly']}
+{'origin': 'consistently', 'forged': ['guandi', 'ΓUΛNΔI'], 'suggest': ['', ''], 'relatives': ['guandi', 'consistently']}
+{'origin': 'individually', 'forged': ['individually', 'INΔIVIΔUΛLLY'], 'suggest': ['', ''], 'relatives': ['atomika', 'individuell', 'individualno', 'individually']}
+{'origin': 'elsewhere', 'forged': ['mujal', 'MUJΛL'], 'suggest': ['', ''], 'relatives': ['mujal', 'elsewhere']}
+{'origin': 'ahead', 'forged': ['ees', 'ΣIС'], 'suggest': ['', ''], 'relatives': ['ees', 'ahead']}
+{'origin': 'rarely', 'forged': ['selde', 'СΣLΔΣ'], 'suggest': ['', ''], 'relatives': ['selde', 'rarely']}
+{'origin': 'initially', 'forged': ['una', 'UNΛ'], 'suggest': ['', ''], 'relatives': ['una', 'initially']}
+{'origin': 'silly', 'forged': ['dom', 'ΔOM'], 'suggest': ['', ''], 'relatives': ['dom', 'silly']}
+{'origin': 'gradually', 'forged': ['khy', 'KХY'], 'suggest': ['', ''], 'relatives': ['khy', 'gradually']}
+{'origin': 'actively', 'forged': ['aktiv', 'ΛKTIV'], 'suggest': ['', ''], 'relatives': ['aktiv', 'actively']}
+{'origin': 'suddenly', 'forged': ['akki', 'ΛKKI'], 'suggest': ['', ''], 'relatives': ['akki', 'suddenly']}
+{'origin': 'really', 'forged': ['an', 'ΛN'], 'suggest': ['', ''], 'relatives': ['an', 'really']}
+{'origin': 'too', 'forged': ['te', 'TΣ'], 'suggest': ['', ''], 'relatives': ['zu', 'te', 'mo', 'tai', 'cok', 'too', 'ook', 'tez']}
+{'origin': 'beautifully', 'forged': ['smukt', 'СMUKT'], 'suggest': ['', ''], 'relatives': ['smukt', 'beautifully']}
+{'origin': 'nearby', 'forged': ['cerca', 'KΣRKΛ'], 'suggest': ['', ''], 'relatives': ['cerca', 'nearby']}
+{'origin': 'aside', 'forged': ['aside', 'ΛСIΔΣ'], 'suggest': ['', ''], 'relatives': ['asw', 'side', 'aside']}
+{'origin': 'far', 'forged': ['ver', 'VΣR'], 'suggest': ['', ''], 'relatives': ['ver', 'far']}
+{'origin': 'therefore', 'forged': ['dofir', 'ΔOFIR'], 'suggest': ['', ''], 'relatives': ['dofir', 'therefore']}
+{'origin': 'sexually', 'forged': ['sexuell', 'СΣKСUΣLL'], 'suggest': ['', ''], 'relatives': ['ephd', 'sexuell', 'sexually']}
+{'origin': 'strongly', 'forged': ['sterk', 'СTΣRK'], 'suggest': ['', ''], 'relatives': ['sterk', 'strongly']}
+{'origin': 'widely', 'forged': ['wyd', 'ЦYΔ'], 'suggest': ['', ''], 'relatives': ['wyd', 'widely']}
+{'origin': 'likewise', 'forged': ['juga', 'JUΓΛ'], 'suggest': ['', ''], 'relatives': ['juga', 'likewise']}
+{'origin': 'obviously', 'forged': ['jelas', 'JΣLΛС'], 'suggest': ['', ''], 'relatives': ['jelas', 'obviously']}
+{'origin': 'so', 'forged': ['so', 'СO'], 'suggest': ['', ''], 'relatives': ['zo', 'sa', 'so', 'sou', 'esou']}
+{'origin': 'extremely', 'forged': ['maeu', 'MΛΣU'], 'suggest': ['', ''], 'relatives': ['maeu', 'extremely']}
+{'origin': 'again', 'forged': ['weer', 'ЦΣIR'], 'suggest': ['', ''], 'relatives': ['weer', 'again']}
+{'origin': 'otherwise', 'forged': ['soss', 'СOСС'], 'suggest': ['', ''], 'relatives': ['soss', 'otherwise']}
+{'origin': 'simultaneously', 'forged': ['phmkn', 'ПХMKN'], 'suggest': ['', ''], 'relatives': ['phmkn', 'simultaneously']}
+{'origin': 'usually', 'forged': ['botong', 'VOTONΓ'], 'suggest': ['', ''], 'relatives': ['botong', 'usually']}
+{'origin': 'separately', 'forged': ['bieni', 'VIΣNI'], 'suggest': ['', ''], 'relatives': ['bieni', 'separately']}
+{'origin': 'emily', 'forged': ['emili', 'ΣMILI'], 'suggest': ['', ''], 'relatives': ['nyim', 'emily', 'emili', 'emiri', 'emilie', 'emilin', 'emilii', 'emilri', 'emilia']}
+{'origin': 'elderly', 'forged': ['tua', 'TUΛ'], 'suggest': ['', ''], 'relatives': ['tua', 'elderly']}
+{'origin': 'subsequently', 'forged': ['tmaa', 'TMΛΛ'], 'suggest': ['', ''], 'relatives': ['tmaa', 'subsequently']}
+{'origin': 'forward', 'forged': ['hm', 'ХM'], 'suggest': ['', ''], 'relatives': ['hm', 'forward']}
+{'origin': 'automatically', 'forged': ['dhaonmd', 'ΔХΛONMΔ'], 'suggest': ['', ''], 'relatives': ['dhaonmd', 'automatically']}
+{'origin': 'possibly', 'forged': ['an', 'ΛN'], 'suggest': ['', ''], 'relatives': ['an', 'possibly']}
+{'origin': 'relatively', 'forged': ['medyo', 'MΣΔYO'], 'suggest': ['', ''], 'relatives': ['medyo', 'relatively']}
+{'origin': 'finally', 'forged': ['enfin', 'ΣNFIN'], 'suggest': ['', ''], 'relatives': ['enfin', 'finally']}
+{'origin': 'thereafter', 'forged': ['apres', 'ΛПRΣС'], 'suggest': ['', ''], 'relatives': ['apres', 'thereafter']}
+{'origin': 'regularly', 'forged': ['regular', 'RΣΓULΛR'], 'suggest': ['', ''], 'relatives': ['regular', 'gereeld', 'regularly']}
+{'origin': 'closely', 'forged': ['nou', 'NOU'], 'suggest': ['', ''], 'relatives': ['nou', 'closely']}
+{'origin': 'hopefully', 'forged': ['sana', 'СΛNΛ'], 'suggest': ['', ''], 'relatives': ['sana', 'hopefully']}
+{'origin': 'surely', 'forged': ['ding', 'ΔINΓ'], 'suggest': ['', ''], 'relatives': ['ding', 'surely']}
+{'origin': 'atmosphere', 'forged': ['atmosphar', 'ΛTMOСПХΛR'], 'suggest': ['', ''], 'relatives': ['suasana', 'atmosphar', 'atmosphare', 'atmosphere']}
+{'origin': 'shortly', 'forged': ['god', 'ΓOΔ'], 'suggest': ['', ''], 'relatives': ['god', 'shortly']}
+{'origin': 'additionally', 'forged': ['lisaks', 'LIСΛKС'], 'suggest': ['', ''], 'relatives': ['lisaks', 'additionally']}
+{'origin': 'promptly', 'forged': ['prompt', 'ПROMПT'], 'suggest': ['', ''], 'relatives': ['omga', 'prompt', 'promptly']}
+{'origin': 'however', 'forged': ['kuid', 'KUIΔ'], 'suggest': ['', ''], 'relatives': ['kuid', 'however']}
+{'origin': 'particularly', 'forged': ['teni', 'TΣNI'], 'suggest': ['', ''], 'relatives': ['teni', 'particularly']}
+{'origin': 'together', 'forged': ['xu', 'KСU'], 'suggest': ['', ''], 'relatives': ['xu', 'together']}
+{'origin': 'beverly', 'forged': ['bevrli', 'VΣVRLI'], 'suggest': ['', ''], 'relatives': ['piwo', 'bevrli', 'beverly', 'beverli']}
+{'origin': 'somewhere', 'forged': ['kapou', 'KΛПOU'], 'suggest': ['', ''], 'relatives': ['kapou', 'somewhere']}
+{'origin': 'annually', 'forged': ['arlig', 'ΛRLIΓ'], 'suggest': ['', ''], 'relatives': ['arlig', 'annually']}
+{'origin': 'certainly', 'forged': ['pasti', 'ПΛСTI'], 'suggest': ['', ''], 'relatives': ['pasti', 'certainly']}
+{'origin': 'furthermore', 'forged': ['ciwai', 'KIЦΛI'], 'suggest': ['', ''], 'relatives': ['ciwai', 'furthermore']}
+{'origin': 'not', 'forged': ['ne', 'NΣ'], 'suggest': ['', ''], 'relatives': ['ne', 'no', 'net', 'nie', 'nai', 'not', 'niet']}
+{'origin': 'late', 'forged': ['late', 'LΛTΣ'], 'suggest': ['', ''], 'relatives': ['gec', 'late', 'laat']}
+{'origin': 'monthly', 'forged': ['aylik', 'ΛYLIK'], 'suggest': ['', ''], 'relatives': ['aylik', 'monthly']}
+{'origin': 'up', 'forged': ['op', 'OП'], 'suggest': ['', ''], 'relatives': ['op', 'up', 'opp']}
+{'origin': 'deadly', 'forged': ['haany', 'ХΛΛNY'], 'suggest': ['', ''], 'relatives': ['haany', 'deadly']}
+{'origin': 'solely', 'forged': ['mono', 'MONO'], 'suggest': ['', ''], 'relatives': ['mono', 'solely']}
+{'origin': 'back', 'forged': ['et', 'ΣT'], 'suggest': ['', ''], 'relatives': ['et', 'back']}
+{'origin': 'sphere', 'forged': ['sphere', 'СПХΣRΣ'], 'suggest': ['', ''], 'relatives': ['qiu', 'sphere', 'sfaere']}
+{'origin': 'northwest', 'forged': ['nordwest', 'NORΔЦΣСT'], 'suggest': ['', ''], 'relatives': ['loe', 'nordwest', 'northwest']}
+{'origin': 'now', 'forged': ['nu', 'NU'], 'suggest': ['na', 'NΛ'], 'relatives': ['na', 'nu', 'now', 'nou']}
+{'origin': 'precisely', 'forged': ['an', 'ΛN'], 'suggest': ['', ''], 'relatives': ['an', 'precisely']}
+{'origin': 'entirely', 'forged': ['an', 'ΛN'], 'suggest': ['', ''], 'relatives': ['an', 'entirely']}
+{'origin': 'ultimately', 'forged': ['telika', 'TΣLIKΛ'], 'suggest': ['', ''], 'relatives': ['telika', 'ultimately']}
+{'origin': 'efficiently', 'forged': ['efficient', 'ΣFFIKIΣNT'], 'suggest': ['', ''], 'relatives': ['efisien', 'efficient', 'efficiently']}
+{'origin': 'frequently', 'forged': ['by', 'VY'], 'suggest': ['', ''], 'relatives': ['by', 'frequently']}
+{'origin': 'independently', 'forged': ['isra', 'IСRΛ'], 'suggest': ['', ''], 'relatives': ['isra', 'independently']}
+{'origin': 'fully', 'forged': ['fullt', 'FULLT'], 'suggest': ['', ''], 'relatives': ['an', 'fullt', 'fully']}
+{'origin': 'typically', 'forged': ['khas', 'KХΛС'], 'suggest': ['', ''], 'relatives': ['khas', 'typically']}
+{'origin': 'presently', 'forged': ['tans', 'TΛNС'], 'suggest': ['', ''], 'relatives': ['tans', 'presently']}
+{'origin': 'pretty', 'forged': ['mooi', 'MOOI'], 'suggest': ['', ''], 'relatives': ['mooi', 'pretty']}
+{'origin': 'enough', 'forged': ['ph', 'ПХ'], 'suggest': ['', ''], 'relatives': ['ph', 'enough']}
+{'origin': 'equally', 'forged': ['ewe', 'ΣЦΣ'], 'suggest': ['', ''], 'relatives': ['ewe', 'equally']}
+{'origin': 'legally', 'forged': ['sah', 'СΛХ'], 'suggest': ['', ''], 'relatives': ['sah', 'legally']}
+{'origin': 'strictly', 'forged': ['streng', 'СTRΣNΓ'], 'suggest': ['', ''], 'relatives': ['streng', 'strictly']}
+{'origin': 'apart', 'forged': ['apart', 'ΛПΛRT'], 'suggest': ['', ''], 'relatives': ['nk', 'apart', 'aparte']}
+{'origin': 'officially', 'forged': ['episema', 'ΣПIСΣMΛ'], 'suggest': ['', ''], 'relatives': ['episema', 'officially']}
+{'origin': 'slowly', 'forged': ['saa', 'СΛΛ'], 'suggest': ['', ''], 'relatives': ['saa', 'slowly']}
+{'origin': 'totally', 'forged': ['total', 'TOTΛL'], 'suggest': ['', ''], 'relatives': ['helt', 'total', 'totally']}
+{'origin': 'further', 'forged': ['taip', 'TΛIП'], 'suggest': ['', ''], 'relatives': ['taip', 'further']}
+{'origin': 'definitely', 'forged': ['an', 'ΛN'], 'suggest': ['', ''], 'relatives': ['an', 'definitely']}
+{'origin': 'partly', 'forged': ['partly', 'ПΛRTLY'], 'suggest': ['', ''], 'relatives': ['partly', 'masamb']}
+{'origin': 'proudly', 'forged': ['trots', 'TROTС'], 'suggest': ['', ''], 'relatives': ['trots', 'proudly']}
+{'origin': 'necessarily', 'forged': ['ding', 'ΔINΓ'], 'suggest': ['', ''], 'relatives': ['ding', 'necessarily']}
+{'origin': 'norway', 'forged': ['norras', 'NORRΛС'], 'suggest': ['', ''], 'relatives': ['norge', 'norras', 'norway']}
+{'origin': 'later', 'forged': ['later', 'LΛTΣR'], 'suggest': ['', ''], 'relatives': ['hou', 'later', 'spater']}
+{'origin': 'hourly', 'forged': ['tunnis', 'TUNNIС'], 'suggest': ['', ''], 'relatives': ['tunnis', 'hourly']}
+{'origin': 'unfortunately', 'forged': ['tsavok', 'TСΛVOK'], 'suggest': ['', ''], 'relatives': ['tsavok', 'unfortunately']}
+{'origin': 'apparently', 'forged': ['tila', 'TILΛ'], 'suggest': ['', ''], 'relatives': ['tila', 'apparently']}
+{'origin': 'timely', 'forged': ['jishi', 'JIСХI'], 'suggest': ['', ''], 'relatives': ['jishi', 'timely']}
+{'origin': 'nationally', 'forged': ['national', 'NΛTIONΛL'], 'suggest': ['', ''], 'relatives': ['azgovi', 'national', 'nationalt', 'nationaal', 'nationally']}
+{'origin': 'largely', 'forged': ['zhuni', 'ZХUNI'], 'suggest': ['', ''], 'relatives': ['zhuni', 'largely']}
+{'origin': 'similarly', 'forged': ['similar', 'СIMILΛR'], 'suggest': ['', ''], 'relatives': ['omoios', 'similar', 'similarly']}
+{'origin': 'often', 'forged': ['ofte', 'OFTΣ'], 'suggest': ['', ''], 'relatives': ['tit', 'ofte', 'often']}
+{'origin': 'nose', 'forged': ['nese', 'NΣСΣ'], 'suggest': ['', ''], 'relatives': ['bi', 'nos', 'nose', 'nase', 'nues', 'nese', 'naese']}
+{'origin': 'essentially', 'forged': ['wese', 'ЦΣСΣ'], 'suggest': ['', ''], 'relatives': ['wese', 'essentially']}
+{'origin': 'sally', 'forged': ['salli', 'СΛLLI'], 'suggest': ['', ''], 'relatives': ['sari', 'sally', 'salli', 'salin']}
+{'origin': 'double', 'forged': ['doble', 'ΔOVLΣ'], 'suggest': ['', ''], 'relatives': ['sng', 'doble', 'double']}
+{'origin': 'forever', 'forged': ['tldaip', 'TLΔΛIП'], 'suggest': ['', ''], 'relatives': ['tldaip', 'forever']}
+{'origin': 'away', 'forged': ['ara', 'ΛRΛ'], 'suggest': ['', ''], 'relatives': ['ara', 'weg', 'away']}
+{'origin': 'lonely', 'forged': ['gudu', 'ΓUΔU'], 'suggest': ['', ''], 'relatives': ['gudu', 'lonely']}
+{'origin': 'dramatically', 'forged': ['lakhn', 'LΛKХN'], 'suggest': ['', ''], 'relatives': ['lakhn', 'dramatically']}
+{'origin': 'indeed', 'forged': ['ja', 'JΛ'], 'suggest': ['', ''], 'relatives': ['ja', 'indeed']}
+{'origin': 'maybe', 'forged': ['maybe', 'MΛYVΣ'], 'suggest': ['', ''], 'relatives': ['moze', 'maybe', 'maske']}
+{'origin': 'anywhere', 'forged': ['oral', 'ORΛL'], 'suggest': ['', ''], 'relatives': ['oral', 'anywhere']}
+{'origin': 'long', 'forged': ['lang', 'LΛNΓ'], 'suggest': ['', ''], 'relatives': ['gin', 'lang', 'lank', 'long', 'lange', 'laang', 'longue']}
+{'origin': 'freely', 'forged': ['frit', 'FRIT'], 'suggest': ['', ''], 'relatives': ['frit', 'freely']}
+{'origin': 'explicitly', 'forged': ['reta', 'RΣTΛ'], 'suggest': ['', ''], 'relatives': ['reta', 'explicitly']}
+{'origin': 'mainly', 'forged': ['juro', 'JURO'], 'suggest': ['', ''], 'relatives': ['juro', 'mainly']}
+{'origin': 'soon', 'forged': ['god', 'ΓOΔ'], 'suggest': ['', ''], 'relatives': ['god', 'soon']}
+{'origin': 'billy', 'forged': ['bili', 'VILI'], 'suggest': ['bil', 'VIL'], 'relatives': ['bil', 'bili', 'billy', 'billi']}
+{'origin': 'else', 'forged': ['mas', 'MΛС'], 'suggest': ['', ''], 'relatives': ['mas', 'else']}
+{'origin': 'nowhere', 'forged': ['nikde', 'NIKΔΣ'], 'suggest': ['', ''], 'relatives': ['nikde', 'nowhere']}
+{'origin': 'well', 'forged': ['gut', 'ΓUT'], 'suggest': ['', ''], 'relatives': ['gut', 'well']}
+{'origin': 'anymore', 'forged': ['pia', 'ПIΛ'], 'suggest': ['', ''], 'relatives': ['pia', 'anymore']}
+{'origin': 'sufficiently', 'forged': ['ph', 'ПХ'], 'suggest': ['', ''], 'relatives': ['ph', 'sufficiently']}
+{'origin': 'generally', 'forged': ['genika', 'ΓΣNIKΛ'], 'suggest': ['', ''], 'relatives': ['genika', 'generally']}
+{'origin': 'then', 'forged': ['dan', 'ΔΛN'], 'suggest': ['', ''], 'relatives': ['dan', 'then']}
+{'origin': 'abroad', 'forged': ['abroad', 'ΛVROΛΔ'], 'suggest': ['', ''], 'relatives': ['abroad', 'haiwai']}
+{'origin': 'friendly', 'forged': ['ramah', 'RΛMΛХ'], 'suggest': ['', ''], 'relatives': ['ramah', 'friendly']}
+{'origin': 'here', 'forged': ['her', 'ХΣR'], 'suggest': ['', ''], 'relatives': ['her', 'tuk', 'hei', 'here', 'hier']}
+{'origin': 'yearly', 'forged': ['anual', 'ΛNUΛL'], 'suggest': ['', ''], 'relatives': ['anual', 'yearly']}
+{'origin': 'specially', 'forged': ['speciaal', 'СПΣKIΛΛL'], 'suggest': ['', ''], 'relatives': ['an', 'speciaal', 'specially']}
+{'origin': 'naturally', 'forged': ['natural', 'NΛTURΛL'], 'suggest': ['', ''], 'relatives': ['ziran', 'natural', 'naturally']}
+{'origin': 'exactly', 'forged': ['genau', 'ΓΣNΛU'], 'suggest': ['', ''], 'relatives': ['genau', 'exactly']}
+{'origin': 'potentially', 'forged': ['mogelijk', 'MOΓΣLIJK'], 'suggest': ['', ''], 'relatives': ['mogelijk', 'potentially']}
+{'origin': 'reasonably', 'forged': ['helidi', 'ХΣLIΔI'], 'suggest': ['', ''], 'relatives': ['helidi', 'reasonably']}
+{'origin': 'rather', 'forged': ['agak', 'ΛΓΛK'], 'suggest': ['', ''], 'relatives': ['agak', 'rather']}
+{'origin': 'ugly', 'forged': ['feo', 'FΣO'], 'suggest': ['', ''], 'relatives': ['feo', 'ugly']}
+{'origin': 'literally', 'forged': ['literal', 'LITΣRΛL'], 'suggest': ['', ''], 'relatives': ['literal', 'literally']}
+{'origin': 'instead', 'forged': ['plaas', 'ПLΛΛС'], 'suggest': ['', ''], 'relatives': ['plaas', 'instead']}
+{'origin': 'simply', 'forged': ['apla', 'ΛПLΛ'], 'suggest': ['', ''], 'relatives': ['apla', 'simply']}
+{'origin': 'importantly', 'forged': ['vazhno', 'VΛZХNO'], 'suggest': ['', ''], 'relatives': ['vazhno', 'importantly']}
+{'origin': 'very', 'forged': ['muy', 'MUY'], 'suggest': ['', ''], 'relatives': ['muy', 'very']}
+{'origin': 'quickly', 'forged': ['brzo', 'VRZO'], 'suggest': ['', ''], 'relatives': ['brzo', 'quickly']}
+{'origin': 'gently', 'forged': ['khy', 'KХY'], 'suggest': ['', ''], 'relatives': ['khy', 'gently']}
+{'origin': 'twice', 'forged': ['erdu', 'ΣRΔU'], 'suggest': ['', ''], 'relatives': ['erdu', 'twice']}
+{'origin': 'specifically', 'forged': ['tebie', 'TΣVIΣ'], 'suggest': ['', ''], 'relatives': ['tebie', 'specifically']}
+{'origin': 'oven', 'forged': ['oven', 'OVΣN'], 'suggest': ['ovn', 'OVN'], 'relatives': ['ovn', 'ofen', 'obun', 'oven', 'obeun']}
+{'origin': 'successfully', 'forged': ['edukalt', 'ΣΔUKΛLT'], 'suggest': ['', ''], 'relatives': ['edukalt', 'successfully']}
+{'origin': 'offshore', 'forged': ['offshore', 'OFFСХORΣ'], 'suggest': ['', ''], 'relatives': ['nkfng', 'ofshoren', 'offshore']}
+{'origin': 'alternatively', 'forged': ['alternative', 'ΛLTΣRNΛTIVΣ'], 'suggest': ['', ''], 'relatives': ['aruiha', 'alternative', 'alternatively']}
+{'origin': 'highly', 'forged': ['muy', 'MUY'], 'suggest': ['', ''], 'relatives': ['muy', 'highly']}
+{'origin': 'assembly', 'forged': ['assembly', 'ΛССΣMVLY'], 'suggest': ['', ''], 'relatives': ['havak', 'assembly', 'assemblee']}
+{'origin': 'thereby', 'forged': ['damit', 'ΔΛMIT'], 'suggest': ['', ''], 'relatives': ['damit', 'thereby']}
+{'origin': 'almost', 'forged': ['bal', 'VΛL'], 'suggest': ['', ''], 'relatives': ['bal', 'almost']}
+{'origin': 'truly', 'forged': ['truly', 'TRULY'], 'suggest': ['', ''], 'relatives': ['truly', 'tunay']}
+{'origin': 'especially', 'forged': ['teni', 'TΣNI'], 'suggest': ['', ''], 'relatives': ['teni', 'especially']}
+{'origin': 'fairly', 'forged': ['dosc', 'ΔOСK'], 'suggest': ['', ''], 'relatives': ['dosc', 'fairly']}
+{'origin': 'directly', 'forged': ['direct', 'ΔIRΣKT'], 'suggest': ['', ''], 'relatives': ['zhi', 'direct', 'directly']}
+{'origin': 'eleven', 'forged': ['elleve', 'ΣLLΣVΣ'], 'suggest': ['', ''], 'relatives': ['elf', 'elleve', 'eleven']}
+{'origin': 'substantially', 'forged': ['eapes', 'ΣΛПΣС'], 'suggest': ['', ''], 'relatives': ['eapes', 'substantially']}
+{'origin': 'safely', 'forged': ['trygt', 'TRYΓT'], 'suggest': ['', ''], 'relatives': ['trygt', 'safely']}
+{'origin': 'accurately', 'forged': ['tama', 'TΛMΛ'], 'suggest': ['', ''], 'relatives': ['tama', 'accurately']}
+{'origin': 'thoroughly', 'forged': ['an', 'ΛN'], 'suggest': ['', ''], 'relatives': ['an', 'thoroughly']}
+{'origin': 'occasionally', 'forged': ['shi', 'СХI'], 'suggest': ['', ''], 'relatives': ['shi', 'occasionally']}
+{'origin': 'internationally', 'forged': ['international', 'INTΣRNΛTIONΛL'], 'suggest': ['', ''], 'relatives': ['saakon', 'international', 'internationalt', 'internationaal', 'internationally']}
+{'origin': 'periodically', 'forged': ['epnraya', 'ΣПNRΛYΛ'], 'suggest': ['', ''], 'relatives': ['epnraya', 'periodically']}
+{'origin': 'yet', 'forged': ['pa', 'ПΛ'], 'suggest': ['', ''], 'relatives': ['pa', 'yet']}
+{'origin': 'currently', 'forged': ['tans', 'TΛNС'], 'suggest': ['', ''], 'relatives': ['tans', 'currently']}
+{'origin': 'normally', 'forged': ['normal', 'NORMΛL'], 'suggest': ['', ''], 'relatives': ['ban', 'normal', 'normalt', 'normalde', 'normally', 'normalno']}
+{'origin': 'belly', 'forged': ['fu', 'FU'], 'suggest': ['', ''], 'relatives': ['fu', 'belly']}
+{'origin': 'eventually', 'forged': ['telika', 'TΣLIKΛ'], 'suggest': ['', ''], 'relatives': ['telika', 'eventually']}
+{'origin': 'always', 'forged': ['esm', 'ΣСM'], 'suggest': ['', ''], 'relatives': ['esm', 'always']}
+{'origin': 'early', 'forged': ['hon', 'ХON'], 'suggest': ['', ''], 'relatives': ['hon', 'early']}
+{'origin': 'barely', 'forged': ['edva', 'ΣΔVΛ'], 'suggest': ['', ''], 'relatives': ['edva', 'barely']}
+{'origin': 'somewhat', 'forged': ['ng', 'NΓ'], 'suggest': ['', ''], 'relatives': ['ng', 'somewhat']}
+{'origin': 'manually', 'forged': ['manuell', 'MΛNUΣLL'], 'suggest': ['', ''], 'relatives': ['an', 'manuell', 'manually']}
+{'origin': 'heavily', 'forged': ['hnak', 'ХNΛK'], 'suggest': ['', ''], 'relatives': ['hnak', 'heavily']}
+{'origin': 'also', 'forged': ['ka', 'KΛ'], 'suggest': ['', ''], 'relatives': ['ka', 'also']}
+{'origin': 'exclusively', 'forged': ['an', 'ΛN'], 'suggest': ['', ''], 'relatives': ['an', 'exclusively']}
+{'origin': 'perhaps', 'forged': ['ehk', 'ΣХK'], 'suggest': ['', ''], 'relatives': ['ehk', 'perhaps']}
+{'origin': 'probably', 'forged': ['ama', 'ΛMΛ'], 'suggest': ['', ''], 'relatives': ['ama', 'probably']}
+{'origin': 'instantly', 'forged': ['god', 'ΓOΔ'], 'suggest': ['', ''], 'relatives': ['god', 'instantly']}
+{'origin': 'virtually', 'forged': ['virtuell', 'VIRTUΣLL'], 'suggest': ['', ''], 'relatives': ['an', 'virtuell', 'virtually']}
+{'origin': 'absolutely', 'forged': ['benar', 'VΣNΛR'], 'suggest': ['', ''], 'relatives': ['benar', 'absolutely']}
+{'origin': 'mere', 'forged': ['mero', 'MΣRO'], 'suggest': ['', ''], 'relatives': ['sam', 'mero', 'mere', 'mell']}
+{'origin': 'accordingly', 'forged': ['taam', 'TΛΛM'], 'suggest': ['', ''], 'relatives': ['taam', 'accordingly']}
+{'origin': 'seriously', 'forged': ['alvor', 'ΛLVOR'], 'suggest': ['', ''], 'relatives': ['alvor', 'seriously']}
+{'origin': 'carefully', 'forged': ['noye', 'NOYΣ'], 'suggest': ['', ''], 'relatives': ['noye', 'carefully']}
+{'origin': 'ago', 'forged': ['vor', 'VOR'], 'suggest': ['', ''], 'relatives': ['vor', 'ago']}
+{'origin': 'alone', 'forged': ['alone', 'ΛLONΣ'], 'suggest': ['', ''], 'relatives': ['sam', 'alone', 'alene']}
+{'origin': 'there', 'forged': ['la', 'LΛ'], 'suggest': ['', ''], 'relatives': ['la', 'there']}
+{'origin': 'securely', 'forged': ['veilig', 'VΣILIΓ'], 'suggest': ['', ''], 'relatives': ['veilig', 'securely']}
+{'origin': 'nearly', 'forged': ['bal', 'VΛL'], 'suggest': ['', ''], 'relatives': ['bal', 'nearly']}
+{'origin': 'lately', 'forged': ['zuijin', 'ZUIJIN'], 'suggest': ['', ''], 'relatives': ['zuijin', 'lately']}
+{'origin': 'down', 'forged': ['daun', 'ΔΛUN'], 'suggest': ['', ''], 'relatives': ['af', 'daun', 'down']}
+{'origin': 'newly', 'forged': ['neu', 'NΣU'], 'suggest': ['', ''], 'relatives': ['neu', 'newly']}
+{'origin': 'temporarily', 'forged': ['gecici', 'ΓΣKIKI'], 'suggest': ['', ''], 'relatives': ['gecici', 'temporarily']}
+{'origin': 'consequently', 'forged': ['dngnn', 'ΔNΓNN'], 'suggest': ['', ''], 'relatives': ['dngnn', 'consequently']}
+{'origin': 'personally', 'forged': ['personal', 'ПΣRСONΛL'], 'suggest': ['', ''], 'relatives': ['an', 'personal', 'personally']}
+{'origin': 'mostly', 'forged': ['daduo', 'ΔΛΔUO'], 'suggest': ['', ''], 'relatives': ['daduo', 'mostly']}
+{'origin': 'continuously', 'forged': ['standig', 'СTΛNΔIΓ'], 'suggest': ['', ''], 'relatives': ['standig', 'continuously']}
+{'origin': 'lovely', 'forged': ['leif', 'LΣIF'], 'suggest': ['', ''], 'relatives': ['leif', 'lovely']}
+{'origin': 'locally', 'forged': ['lokal', 'LOKΛL'], 'suggest': ['', ''], 'relatives': ['lokal', 'locally']}
+{'origin': 'formerly', 'forged': ['antes', 'ΛNTΣС'], 'suggest': ['', ''], 'relatives': ['antes', 'formerly']}
+{'origin': 'hardly', 'forged': ['kaum', 'KΛUM'], 'suggest': ['', ''], 'relatives': ['kaum', 'hardly']}
+{'origin': 'still', 'forged': ['ikka', 'IKKΛ'], 'suggest': ['', ''], 'relatives': ['ikka', 'still']}
+{'origin': 'partially', 'forged': ['masamb', 'MΛСΛMV'], 'suggest': ['', ''], 'relatives': ['masamb', 'partially']}
+{'origin': 'correctly', 'forged': ['correct', 'KORRΣKT'], 'suggest': ['', ''], 'relatives': ['tama', 'correct', 'correctly']}
+{'origin': 'readily', 'forged': ['let', 'LΣT'], 'suggest': ['', ''], 'relatives': ['let', 'readily']}
+{'origin': 'badly', 'forged': ['zle', 'ZLΣ'], 'suggest': ['', ''], 'relatives': ['zle', 'badly']}
+{'origin': 'effectively', 'forged': ['mabisa', 'MΛVIСΛ'], 'suggest': ['', ''], 'relatives': ['mabisa', 'effectively']}
+{'origin': 'close', 'forged': ['pid', 'ПIΔ'], 'suggest': ['', ''], 'relatives': ['pid', 'close']}
+{'origin': 'greatly', 'forged': ['muy', 'MUY'], 'suggest': ['', ''], 'relatives': ['muy', 'greatly']}
+{'origin': 'continually', 'forged': ['eruuey', 'ΣRUUΣY'], 'suggest': ['', ''], 'relatives': ['eruuey', 'continually']}
+{'origin': 'just', 'forged': ['just', 'JUСT'], 'suggest': ['', ''], 'relatives': ['net', 'just', 'juste']}
+{'origin': 'basically', 'forged': ['basies', 'VΛСIΣС'], 'suggest': ['', ''], 'relatives': ['basies', 'basically']}
+{'origin': 'everywhere', 'forged': ['oral', 'ORΛL'], 'suggest': ['', ''], 'relatives': ['oral', 'everywhere']}
+{'origin': 'never', 'forged': ['ni', 'NI'], 'suggest': ['', ''], 'relatives': ['ni', 'never']}
+{'origin': 'alike', 'forged': ['ens', 'ΣNС'], 'suggest': ['', ''], 'relatives': ['ens', 'alike']}
+{'origin': 'overseas', 'forged': ['haeoe', 'ХΛΣOΣ'], 'suggest': ['', ''], 'relatives': ['haeoe', 'overseas']}
+{'origin': 'respectively', 'forged': ['gaggi', 'ΓΛΓΓI'], 'suggest': ['', ''], 'relatives': ['gaggi', 'respectively']}
+{'origin': 'originally', 'forged': ['ediim', 'ΣΔIIM'], 'suggest': ['', ''], 'relatives': ['ediim', 'originally']}
+{'origin': 'sometimes', 'forged': ['shi', 'СХI'], 'suggest': ['', ''], 'relatives': ['shi', 'sometimes']}
+{'origin': 'meanwhile', 'forged': ['oesnada', 'OΣСNΛΔΛ'], 'suggest': ['', ''], 'relatives': ['oesnada', 'meanwhile']}
+{'origin': 'clearly', 'forged': ['iasno', 'IΛСNO'], 'suggest': ['', ''], 'relatives': ['iasno', 'clearly']}
+{'origin': 'slightly', 'forged': ['lue', 'LUΣ'], 'suggest': ['', ''], 'relatives': ['lue', 'slightly']}
+{'origin': 'holly', 'forged': ['holly', 'ХOLLY'], 'suggest': ['', ''], 'relatives': ['houx', 'holly', 'holri']}
+{'origin': 'constantly', 'forged': ['constant', 'KONСTΛNT'], 'suggest': ['', ''], 'relatives': ['stale', 'constant', 'constantly']}
+{'origin': 'commonly', 'forged': ['an', 'ΛN'], 'suggest': ['', ''], 'relatives': ['an', 'commonly']}
+{'origin': 'namely', 'forged': ['nimelt', 'NIMΣLT'], 'suggest': ['', ''], 'relatives': ['ji', 'nimelt', 'namely']}
+{'origin': 'merely', 'forged': ['nur', 'NUR'], 'suggest': ['', ''], 'relatives': ['nur', 'merely']}
+{'origin': 'already', 'forged': ['ya', 'YΛ'], 'suggest': ['', ''], 'relatives': ['ya', 'already']}
+{'origin': 'publicly', 'forged': ['an', 'ΛN'], 'suggest': ['', ''], 'relatives': ['an', 'publicly']}
+{'origin': 'quite', 'forged': ['aju', 'ΛJU'], 'suggest': ['', ''], 'relatives': ['aju', 'quite']}
+{'origin': 'roughly', 'forged': ['an', 'ΛN'], 'suggest': ['', ''], 'relatives': ['an', 'roughly']}

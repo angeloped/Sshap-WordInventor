@@ -1,0 +1,16 @@
+{'origin': 'either', 'forged': ['eite', 'ΣITΣ'], 'suggest': ['', ''], 'relatives': ['of', 'eite', 'either']}
+{'origin': 'those', 'forged': ['de', 'ΔΣ'], 'suggest': ['', ''], 'relatives': ['de', 'those']}
+{'origin': 'another', 'forged': ['yyn', 'YYN'], 'suggest': ['', ''], 'relatives': ['yyn', 'another']}
+{'origin': 'any', 'forged': ['ayd', 'ΛYΔ'], 'suggest': ['', ''], 'relatives': ['ayd', 'aid', 'any']}
+{'origin': 'a', 'forged': ['a', 'Λ'], 'suggest': ['', ''], 'relatives': ['k', 'a', 'n', 'en', 'za', 'ge', 'ena', 'una']}
+{'origin': 'each', 'forged': ['ge', 'ΓΣ'], 'suggest': ['', ''], 'relatives': ['ge', 'each']}
+{'origin': 'both', 'forged': ['du', 'ΔU'], 'suggest': ['', ''], 'relatives': ['du', 'both']}
+{'origin': 'these', 'forged': ['these', 'TХΣСΣ'], 'suggest': ['', ''], 'relatives': ['te', 'diese', 'these']}
+{'origin': 'no', 'forged': ['ne', 'NΣ'], 'suggest': ['', ''], 'relatives': ['bm', 'ne', 'no', 'ei', 'non', 'net', 'nie', 'nee', 'nei', 'ani']}
+{'origin': 'all', 'forged': ['all', 'ΛLL'], 'suggest': ['', ''], 'relatives': ['ola', 'all', 'alle', 'almal']}
+{'origin': 'some', 'forged': ['xie', 'KСIΣ'], 'suggest': ['', ''], 'relatives': ['xie', 'some']}
+{'origin': 'this', 'forged': ['i', 'I'], 'suggest': ['', ''], 'relatives': ['i', 'this']}
+{'origin': 'an', 'forged': ['en', 'ΣN'], 'suggest': ['n', 'N'], 'relatives': ['n', 'an', 'un', 'en', 'no', 'ge', 'na', 'epn', 'une', 'ena', 'een', 'ein']}
+{'origin': 'neither', 'forged': ['ei', 'ΣI'], 'suggest': ['', ''], 'relatives': ['ei', 'neither']}
+{'origin': 'the', 'forged': ['e', 'Σ'], 'suggest': ['', ''], 'relatives': ['o', 'e', 'de', 'le', 'die', 'the']}
+{'origin': 'every', 'forged': ['hver', 'ХVΣR'], 'suggest': ['', ''], 'relatives': ['iga', 'hver', 'every']}

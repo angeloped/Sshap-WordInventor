@@ -1,0 +1,7 @@
+list index out of range: {'origin': 'idle', 'forged': ['idle', 'IΔLΣ'], 'suggest': ['', ''], 'relatives': ['idle']}
+list index out of range: {'origin': 'big', 'forged': ['big', 'VIΓ'], 'suggest': ['', ''], 'relatives': ['big']}
+list index out of range: {'origin': 'rid', 'forged': ['rid', 'RIΔ'], 'suggest': ['', ''], 'relatives': ['rid']}
+list index out of range: {'origin': 'scan', 'forged': ['scan', 'СKΛN'], 'suggest': ['', ''], 'relatives': ['scan']}
+list index out of range: {'origin': 'rural', 'forged': ['rural', 'RURΛL'], 'suggest': ['', ''], 'relatives': ['rural']}
+list index out of range: {'origin': 'lucky', 'forged': ['lucky', 'LUKKY'], 'suggest': ['', ''], 'relatives': ['lucky']}
+list index out of range: {'origin': 'imperial', 'forged': ['imperial', 'IMПΣRIΛL'], 'suggest': ['', ''], 'relatives': ['imperial']}

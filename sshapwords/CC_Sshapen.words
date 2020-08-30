@@ -1,0 +1,5 @@
+{'origin': 'nor', 'forged': ['ni', 'NI'], 'suggest': ['', ''], 'relatives': ['ni', 'nor', 'nie', 'noch']}
+{'origin': 'and', 'forged': ['an', 'ΛN'], 'suggest': ['', ''], 'relatives': ['i', 'an', 'at', 'en', 'dan', 'and', 'und']}
+{'origin': 'but', 'forged': ['aet', 'ΛΣT'], 'suggest': ['', ''], 'relatives': ['no', 'aet', 'but']}
+{'origin': 'plus', 'forged': ['plus', 'ПLUС'], 'suggest': ['', ''], 'relatives': ['sun', 'plus', 'plius', 'pluss']}
+{'origin': 'or', 'forged': ['o', 'O'], 'suggest': ['', ''], 'relatives': ['o', 'e', 'or', 'ou', 'of', 'voi', 'oder']}

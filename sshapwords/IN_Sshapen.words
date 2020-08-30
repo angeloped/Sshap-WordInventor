@@ -1,0 +1,54 @@
+{'origin': 'during', 'forged': ['ajal', 'ΛJΛL'], 'suggest': ['', ''], 'relatives': ['ajal', 'during']}
+{'origin': 'out', 'forged': ['out', 'OUT'], 'suggest': ['', ''], 'relatives': ['k', 'ud', 'ot', 'ute', 'out', 'uit', 'aus', 'auto']}
+{'origin': 'though', 'forged': ['aem', 'ΛΣM'], 'suggest': ['', ''], 'relatives': ['aem', 'though']}
+{'origin': 'about', 'forged': ['o', 'O'], 'suggest': ['', ''], 'relatives': ['o', 'about']}
+{'origin': 'toward', 'forged': ['k', 'K'], 'suggest': ['', ''], 'relatives': ['k', 'toward']}
+{'origin': 'from', 'forged': ['fra', 'FRΛ'], 'suggest': ['', ''], 'relatives': ['ot', 'fra', 'from']}
+{'origin': 'as', 'forged': ['as', 'ΛС'], 'suggest': ['', ''], 'relatives': ['as', 'ru', 'als']}
+{'origin': 'before', 'forged': ['kn', 'KN'], 'suggest': ['', ''], 'relatives': ['kn', 'before']}
+{'origin': 'besides', 'forged': ['ektos', 'ΣKTOС'], 'suggest': ['', ''], 'relatives': ['ektos', 'besides']}
+{'origin': 'outside', 'forged': ['wai', 'ЦΛI'], 'suggest': ['', ''], 'relatives': ['wai', 'outside']}
+{'origin': 'off', 'forged': ['ot', 'OT'], 'suggest': ['', ''], 'relatives': ['af', 'ot', 'off', 'ohu']}
+{'origin': 'into', 'forged': ['in', 'IN'], 'suggest': ['', ''], 'relatives': ['v', 'in', 'indi', 'inni', 'into']}
+{'origin': 'across', 'forged': ['oor', 'OOR'], 'suggest': ['', ''], 'relatives': ['oor', 'across']}
+{'origin': 'whether', 'forged': ['of', 'OF'], 'suggest': ['', ''], 'relatives': ['of', 'whether']}
+{'origin': 'if', 'forged': ['an', 'ΛN'], 'suggest': ['', ''], 'relatives': ['an', 'si', 'if']}
+{'origin': 'among', 'forged': ['onder', 'ONΔΣR'], 'suggest': ['', ''], 'relatives': ['onder', 'among']}
+{'origin': 'despite', 'forged': ['para', 'ПΛRΛ'], 'suggest': ['', ''], 'relatives': ['para', 'despite']}
+{'origin': 'by', 'forged': ['by', 'VY'], 'suggest': ['', ''], 'relatives': ['by', 'av', 'po', 'ng', 'me', 'ot', 'ody']}
+{'origin': 'against', 'forged': ['hm', 'ХM'], 'suggest': ['', ''], 'relatives': ['hm', 'against']}
+{'origin': 'for', 'forged': ['for', 'FOR'], 'suggest': ['', ''], 'relatives': ['za', 'fir', 'vir', 'for', 'voor', 'pour']}
+{'origin': 'after', 'forged': ['efter', 'ΣFTΣR'], 'suggest': ['', ''], 'relatives': ['na', 'after', 'etter', 'efter']}
+{'origin': 'because', 'forged': ['da', 'ΔΛ'], 'suggest': ['', ''], 'relatives': ['da', 'because']}
+{'origin': 'while', 'forged': ['er', 'ΣR'], 'suggest': ['', ''], 'relatives': ['er', 'while']}
+{'origin': 'without', 'forged': ['bez', 'VΣZ'], 'suggest': ['', ''], 'relatives': ['bez', 'without']}
+{'origin': 'like', 'forged': ['san', 'СΛN'], 'suggest': ['', ''], 'relatives': ['san', 'like']}
+{'origin': 'except', 'forged': ['except', 'ΣKСKΣПT'], 'suggest': ['', ''], 'relatives': ['oe', 'except', 'excepto']}
+{'origin': 'around', 'forged': ['b', 'V'], 'suggest': ['', ''], 'relatives': ['b', 'around']}
+{'origin': 'throughout', 'forged': ['tld', 'TLΔ'], 'suggest': ['', ''], 'relatives': ['tld', 'throughout']}
+{'origin': 'unlike', 'forged': ['bmubmk', 'VMUVMK'], 'suggest': ['', ''], 'relatives': ['bmubmk', 'unlike']}
+{'origin': 'near', 'forged': ['near', 'NΣΛR'], 'suggest': ['', ''], 'relatives': ['mot', 'near', 'naer']}
+{'origin': 'with', 'forged': ['mit', 'MIT'], 'suggest': ['', ''], 'relatives': ['s', 'mit', 'with']}
+{'origin': 'above', 'forged': ['bo', 'VO'], 'suggest': ['', ''], 'relatives': ['bo', 'above']}
+{'origin': 'below', 'forged': ['iha', 'IХΛ'], 'suggest': ['', ''], 'relatives': ['iha', 'below']}
+{'origin': 'at', 'forged': ['a', 'Λ'], 'suggest': ['', ''], 'relatives': ['a', 'w', 'v', 'pa', 'at', 'di', 'by', 'de', 'sa', 'um', 'en', 'zai', 'sto']}
+{'origin': 'beyond', 'forged': ['za', 'ZΛ'], 'suggest': ['', ''], 'relatives': ['za', 'beyond']}
+{'origin': 'although', 'forged': ['ga', 'ΓΛ'], 'suggest': ['', ''], 'relatives': ['ga', 'although']}
+{'origin': 'on', 'forged': ['on', 'ON'], 'suggest': ['', ''], 'relatives': ['pa', 'di', 'un', 'op', 'sa', 'on', 'bn', 'na', 'en', 'aan']}
+{'origin': 'onto', 'forged': ['op', 'OП'], 'suggest': ['', ''], 'relatives': ['op', 'onto']}
+{'origin': 'that', 'forged': ['at', 'ΛT'], 'suggest': ['', ''], 'relatives': ['o', 'at', 'dat', 'that', 'thii']}
+{'origin': 'over', 'forged': ['over', 'OVΣR'], 'suggest': ['oor', 'OOR'], 'relatives': ['oor', 'over', 'uber']}
+{'origin': 'unless', 'forged': ['ete', 'ΣTΣ'], 'suggest': ['', ''], 'relatives': ['ete', 'unless']}
+{'origin': 'between', 'forged': ['entre', 'ΣNTRΣ'], 'suggest': ['', ''], 'relatives': ['entre', 'between']}
+{'origin': 'upon', 'forged': ['e', 'Σ'], 'suggest': ['', ''], 'relatives': ['e', 'upon']}
+{'origin': 'behind', 'forged': ['za', 'ZΛ'], 'suggest': ['', ''], 'relatives': ['za', 'behind']}
+{'origin': 'since', 'forged': ['sinds', 'СINΔС'], 'suggest': ['', ''], 'relatives': ['ot', 'sinds', 'since']}
+{'origin': 'until', 'forged': ['do', 'ΔO'], 'suggest': ['', ''], 'relatives': ['do', 'until']}
+{'origin': 'than', 'forged': ['dan', 'ΔΛN'], 'suggest': ['', ''], 'relatives': ['as', 'dan', 'kan', 'than']}
+{'origin': 'inside', 'forged': ['inside', 'INСIΔΣ'], 'suggest': ['', ''], 'relatives': ['nei', 'inde', 'inside', 'innsiden']}
+{'origin': 'within', 'forged': ['sees', 'СΣIС'], 'suggest': ['', ''], 'relatives': ['sees', 'within']}
+{'origin': 'per', 'forged': ['per', 'ПΣR'], 'suggest': ['', ''], 'relatives': ['v', 'par', 'pro', 'mek', 'mei', 'per', 'por']}
+{'origin': 'of', 'forged': ['no', 'NO'], 'suggest': ['', ''], 'relatives': ['z', 'e', 'af', 'av', 'of', 'iz', 'de', 'no', 'ng', 'na', 'yi', 'von', 'tou']}
+{'origin': 'along', 'forged': ['yan', 'YΛN'], 'suggest': ['', ''], 'relatives': ['yan', 'along']}
+{'origin': 'under', 'forged': ['under', 'UNΔΣR'], 'suggest': ['', ''], 'relatives': ['pri', 'enner', 'unter', 'onder', 'under']}
+{'origin': 'through', 'forged': ['par', 'ПΛR'], 'suggest': ['', ''], 'relatives': ['par', 'through']}

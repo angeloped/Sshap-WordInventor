@@ -1,0 +1,15 @@
+{'origin': 'yourself', 'forged': ['jouself', 'JOUСΣLF'], 'suggest': ['', ''], 'relatives': ['ise', 'jouself', 'yourself']}
+{'origin': 'you', 'forged': ['du', 'ΔU'], 'suggest': ['u', 'U'], 'relatives': ['u', 'tu', 'du', 'you', 'dow', 'vous']}
+{'origin': 'she', 'forged': ['ze', 'ZΣ'], 'suggest': ['', ''], 'relatives': ['o', 'ze', 'sy', 'sie', 'she']}
+{'origin': 'himself', 'forged': ['himself', 'ХIMСΣLF'], 'suggest': ['', ''], 'relatives': ['ise', 'himself', 'hamselv']}
+{'origin': 'us', 'forged': ['us', 'UС'], 'suggest': ['', ''], 'relatives': ['us', 'os', 'oss', 'mas', 'uns', 'eis', 'uri', 'nas', 'ons', 'nous']}
+{'origin': 'itself', 'forged': ['self', 'СΣLF'], 'suggest': ['', ''], 'relatives': ['ise', 'self', 'itself']}
+{'origin': 'it', 'forged': ['et', 'ΣT'], 'suggest': ['o', 'O'], 'relatives': ['o', 'to', 'et', 'il', 'it', 'mn', 'es', 'ta', 'ito', 'het', 'dit', 'det', 'eto', 'itu']}
+{'origin': 'we', 'forged': ['we', 'ЦΣ'], 'suggest': ['', ''], 'relatives': ['my', 'vi', 'we', 'wo', 'nie', 'wir', 'wij']}
+{'origin': 'him', 'forged': ['him', 'ХIM'], 'suggest': ['', ''], 'relatives': ['bi', 'el', 'hom', 'ham', 'him', 'ihm', 'dia', 'hem', 'hejm']}
+{'origin': 'they', 'forged': ['te', 'TΣ'], 'suggest': ['', ''], 'relatives': ['te', 'they']}
+{'origin': 'themselves', 'forged': ['se', 'СΣ'], 'suggest': ['', ''], 'relatives': ['se', 'themselves']}
+{'origin': 'he', 'forged': ['he', 'ХΣ'], 'suggest': ['', ''], 'relatives': ['o', 'bi', 'el', 'he', 'il', 'hy', 'er', 'ta', 'on', 'na', 'geu', 'hij', 'han', 'hien']}
+{'origin': 'myself', 'forged': ['myself', 'MYСΣLF'], 'suggest': ['', ''], 'relatives': ['wo', 'myself', 'mezelf']}
+{'origin': 'me', 'forged': ['me', 'MΣ'], 'suggest': ['', ''], 'relatives': ['my', 'yo', 'wo', 'es', 'me', 'mou', 'meg', 'moi', 'men', 'mig', 'mir', 'mech', 'mnie']}
+{'origin': 'them', 'forged': ['dem', 'ΔΣM'], 'suggest': ['', ''], 'relatives': ['im', 'dem', 'hen', 'them']}

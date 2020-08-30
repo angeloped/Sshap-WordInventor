@@ -83,72 +83,71 @@ def sshapify(word):
 hyph = pyphen.Pyphen(lang="en_US")
 
 
-with open("Sshapen.words", "a") as fiel:
-	for origin in os.listdir("./transliterd/"):
-		with open("./transliterd/" + origin) as f:
-			words = [word.lower() for word in f.read().split("\n") if bool(word)]
-			words.append(origin)
-			words = sorted(words, key=len)
-		
-		try:
-			pos_out = determine_tense_input(origin)
-			if len(pos_out[0].keys()) == 1:
-				if "NN" == pos_out[0][origin]:
-					# suggestion reference object
-					cmp_sound = Suggestor("\x20".join(words)) # origin: English
-					correlates = [c for c in cmp_sound.match(origin)]
-					correlates.append(words[0])
-					sorted_words = sorted(set(correlates),key=len)
-					
-					# pick the shortest alternative
-					hyph_word0 = hyph.inserted(sorted_words[0]).split("-")
-					hyph_word1 = hyph.inserted(sorted_words[1]).split("-")
-					w_distance = nltk.edit_distance(hyph_word0[0],hyph_word1[0])
-					
-					# get new word
-					if len(sorted_words) < 1: # if there are only two choices.
-						final_word = sorted_words[0]
-					else:
-						# get levenstein distance via list comprehension
-						x_w = {} # weighted words
-						for i in itertools.permutations(sorted_words, 2):
-							if not i[0] in x_w:
-								x_w[i[0]] = nltk.edit_distance(i[0],i[1])
-							else:
-								x_w[i[0]] += nltk.edit_distance(i[0],i[1])
+for word_pos in ("CC","CD","DT","EX","FW","IN","JJ","LS","MD","PDT","PRP","PRP$","RB","RBR","RBS","RP","TO","UH","WDT","WP","WP$","WRB","VB","NN"):
+	with open("./sshapwords/{0}_Sshapen.words".format(word_pos), "a") as fiel:
+		for origin in os.listdir("./transliterd/"):
+			with open("./transliterd/" + origin) as f:
+				words = [word.lower() for word in f.read().split("\n") if bool(word)]
+				words.append(origin)
+				words = sorted(words, key=len)
+			
+			try:
+				pos_out = determine_tense_input(origin)
+				if len(pos_out[0].keys()) == 1:
+					if pos_out[0][origin] == word_pos:
+						# suggestion reference object
+						cmp_sound = Suggestor("\x20".join(words)) # origin: English
+						correlates = [c for c in cmp_sound.match(origin)]
+						correlates.append(words[0])
+						sorted_words = sorted(set(correlates),key=len)
 						
-						# final process 
-						ww_words = sorted([word for word in x_w.items() if word[1] == min(x_w.values())], key=len)
-						final_word = ww_words[0][0]
-					
-					# make suggestions
-					#if w_distance < int(len(origin)/2): # - don't now which one is better
-					if w_distance <= int(len(hyph_word1[0])/2):
-						suggest = sorted_words[0]
-					else:
-						suggest = ""
-					
-					sshaped0 = sshapify(final_word.upper())
-					sshaped1 = sshapify(suggest.upper())
-					
-					# empty `suggest` if `forged` has same spell 
-					if sshaped0 == sshaped1:
-						sshaped1 = ""
-						suggest = ""
-					
-					new_data = {'origin':origin, 'forged':[final_word,sshaped0], 'suggest':[suggest,sshaped1], 'relatives':sorted_words}
-					#print("{0}\n".format(new_data))
-					
-					fiel.write("{0}\n".format(new_data))
-					
-					#print("origin: ", origin, " => " , final_word, sshapify(final_word.upper()), sorted_words)
-					
-		except Exception as errr:
-			alt_out = {'origin':origin, 'forged':[sorted_words[0],sshapify(sorted_words[0].upper())], 'suggest':['',''], 'relatives':sorted_words} # alternative output
-			errr_msg = "{0}: {1}\n".format(errr, alt_out)
-			#print(errr_msg)
-			with open("error_final_synthword.log","a") as errlog:
-				errlog.write(errr_msg)
+						# pick the shortest alternative
+						hyph_word0 = hyph.inserted(sorted_words[0]).split("-")
+						hyph_word1 = hyph.inserted(sorted_words[1]).split("-")
+						w_distance = nltk.edit_distance(hyph_word0[0],hyph_word1[0])
+						
+						# get new word
+						if len(sorted_words) < 1: # if there are only two choices.
+							final_word = sorted_words[0]
+						else:
+							# get levenstein distance via list comprehension
+							x_w = {} # weighted words
+							for i in itertools.permutations(sorted_words, 2):
+								if not i[0] in x_w:
+									x_w[i[0]] = nltk.edit_distance(i[0],i[1])
+								else:
+									x_w[i[0]] += nltk.edit_distance(i[0],i[1])
+							
+							# final process 
+							ww_words = sorted([word for word in x_w.items() if word[1] == min(x_w.values())], key=len)
+							final_word = ww_words[0][0]
+						
+						# make suggestions
+						#if w_distance < int(len(origin)/2): # - don't now which one is better
+						if w_distance <= int(len(hyph_word1[0])/2):
+							suggest = sorted_words[0]
+						else:
+							suggest = ""
+						
+						sshaped0 = sshapify(final_word.upper())
+						sshaped1 = sshapify(suggest.upper())
+						
+						# empty `suggest` if `forged` has same spell 
+						if sshaped0 == sshaped1:
+							sshaped1 = ""
+							suggest = ""
+						
+						new_data = {'origin':origin, 'forged':[final_word,sshaped0], 'suggest':[suggest,sshaped1], 'relatives':sorted_words}
+						#print("{0}\n".format(new_data))
+						fiel.write("{0}\n".format(new_data))
+						#print("origin: ", origin, " => " , final_word, sshapify(final_word.upper()), sorted_words)
+						
+			except Exception as errr:
+				alt_out = {'origin':origin, 'forged':[sorted_words[0],sshapify(sorted_words[0].upper())], 'suggest':['',''], 'relatives':sorted_words} # alternative output
+				errr_msg = "{0}: {1}\n".format(errr, alt_out)
+				#print(errr_msg)
+				with open("./sshapwords/{0}_error_final_synthword.log".format(word_pos),"a") as errlog:
+					errlog.write(errr_msg)
 
 
 

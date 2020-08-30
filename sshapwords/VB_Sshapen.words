@@ -1,0 +1,57 @@
+{'origin': 'take', 'forged': ['take', 'TΛKΣ'], 'suggest': ['ta', 'TΛ'], 'relatives': ['ta', 'take', 'tage']}
+{'origin': 'remember', 'forged': ['husk', 'ХUСK'], 'suggest': ['', ''], 'relatives': ['husk', 'remember']}
+{'origin': 'make', 'forged': ['make', 'MΛKΣ'], 'suggest': ['', ''], 'relatives': ['shi', 'lave', 'make', 'maken']}
+{'origin': 'improve', 'forged': ['tigao', 'TIΓΛO'], 'suggest': ['', ''], 'relatives': ['tigao', 'improve']}
+{'origin': 'get', 'forged': ['fa', 'FΛ'], 'suggest': ['', ''], 'relatives': ['fa', 'get']}
+{'origin': 'say', 'forged': ['si', 'СI'], 'suggest': ['', ''], 'relatives': ['si', 'se', 'asa', 'say']}
+{'origin': 'disclose', 'forged': ['ifsa', 'IFСΛ'], 'suggest': ['', ''], 'relatives': ['ifsa', 'disclose']}
+{'origin': 'apply', 'forged': ['aich', 'ΛITY'], 'suggest': ['', ''], 'relatives': ['aich', 'apply']}
+{'origin': 'follow', 'forged': ['volg', 'VOLΓ'], 'suggest': ['', ''], 'relatives': ['volg', 'follow']}
+{'origin': 'settle', 'forged': ['vestig', 'VΣСTIΓ'], 'suggest': ['', ''], 'relatives': ['vestig', 'settle']}
+{'origin': 'reduce', 'forged': ['reduce', 'RΣΔUKΣ'], 'suggest': ['', ''], 'relatives': ['ld', 'reduce', 'reduire', 'reducir', 'reducere']}
+{'origin': 'ken', 'forged': ['ken', 'KΣN'], 'suggest': ['', ''], 'relatives': ['ken', 'ekhn']}
+{'origin': 'do', 'forged': ['do', 'ΔO'], 'suggest': ['', ''], 'relatives': ['do', 'ed', 'zuo', 'doen']}
+{'origin': 'participate', 'forged': ['participar', 'ПΛRTIKIПΛR'], 'suggest': ['', ''], 'relatives': ['ikut', 'participar', 'participate']}
+{'origin': 'organize', 'forged': ['organize', 'ORΓΛNIZΣ'], 'suggest': ['', ''], 'relatives': ['zuzhi', 'organize', 'organiser', 'organizar']}
+{'origin': 'consider', 'forged': ['consider', 'KONСIΔΣR'], 'suggest': ['', ''], 'relatives': ['cida', 'consider', 'considerar', 'considerer']}
+{'origin': 'obtain', 'forged': ['opna', 'OПNΛ'], 'suggest': ['', ''], 'relatives': ['opna', 'obtain']}
+{'origin': 'succeed', 'forged': ['slaag', 'СLΛΛΓ'], 'suggest': ['', ''], 'relatives': ['slaag', 'succeed']}
+{'origin': 'have', 'forged': ['ha', 'ХΛ'], 'suggest': ['', ''], 'relatives': ['ha', 'on', 'har', 'have', 'haben']}
+{'origin': 'slow', 'forged': ['saa', 'СΛΛ'], 'suggest': ['', ''], 'relatives': ['saa', 'slow']}
+{'origin': 'assume', 'forged': ['anta', 'ΛNTΛ'], 'suggest': ['', ''], 'relatives': ['anta', 'assume']}
+{'origin': 'impose', 'forged': ['impose', 'IMПOСΣ'], 'suggest': ['', ''], 'relatives': ['ople', 'impose', 'imposer', 'imponer']}
+{'origin': 'maximize', 'forged': ['maximize', 'MΛKСIMIZΣ'], 'suggest': ['', ''], 'relatives': ['khyaay', 'maximize', 'maximizar', 'maximiser']}
+{'origin': 'save', 'forged': ['jiu', 'JIU'], 'suggest': ['', ''], 'relatives': ['jiu', 'save']}
+{'origin': 'believe', 'forged': ['glo', 'ΓLO'], 'suggest': ['', ''], 'relatives': ['glo', 'believe']}
+{'origin': 'optimize', 'forged': ['optimize', 'OПTIMIZΣ'], 'suggest': ['', ''], 'relatives': ['youhua', 'optimize', 'optimere', 'optimizar', 'optimiser']}
+{'origin': 'go', 'forged': ['ga', 'ΓΛ'], 'suggest': ['', ''], 'relatives': ['ga', 'go', 'zou', 'git', 'gna']}
+{'origin': 'expect', 'forged': ['verwag', 'VΣRЦΛΓ'], 'suggest': ['', ''], 'relatives': ['verwag', 'expect']}
+{'origin': 'remove', 'forged': ['lb', 'LV'], 'suggest': ['', ''], 'relatives': ['lb', 'remove']}
+{'origin': 'allow', 'forged': ['xusu', 'KСUСU'], 'suggest': ['', ''], 'relatives': ['xusu', 'allow']}
+{'origin': 'come', 'forged': ['kom', 'KOM'], 'suggest': ['', ''], 'relatives': ['kom', 'come', 'komme', 'komen']}
+{'origin': 'ensure', 'forged': ['sikre', 'СIKRΣ'], 'suggest': ['', ''], 'relatives': ['sikre', 'ensure']}
+{'origin': 'buy', 'forged': ['buy', 'VUY'], 'suggest': ['', ''], 'relatives': ['syy', 'buy', 'kup']}
+{'origin': 'identify', 'forged': ['labu', 'LΛVU'], 'suggest': ['', ''], 'relatives': ['labu', 'identify']}
+{'origin': 'leave', 'forged': ['quru', 'KЦURU'], 'suggest': ['', ''], 'relatives': ['quru', 'leave']}
+{'origin': 'keep', 'forged': ['hou', 'ХOU'], 'suggest': ['', ''], 'relatives': ['hou', 'keep']}
+{'origin': 'know', 'forged': ['uu', 'UU'], 'suggest': ['', ''], 'relatives': ['uu', 'know']}
+{'origin': 'add', 'forged': ['jia', 'JIΛ'], 'suggest': ['', ''], 'relatives': ['jia', 'add']}
+{'origin': 'give', 'forged': ['gee', 'ΓΣI'], 'suggest': ['gi', 'ΓI'], 'relatives': ['gi', 'gei', 'gee', 'give', 'ginn', 'geven']}
+{'origin': 'establish', 'forged': ['seuda', 'СΣUΔΛ'], 'suggest': ['', ''], 'relatives': ['seuda', 'establish']}
+{'origin': 'qualify', 'forged': ['zige', 'ZIΓΣ'], 'suggest': ['', ''], 'relatives': ['zige', 'qualify']}
+{'origin': 'minimize', 'forged': ['minimize', 'MINIMIZΣ'], 'suggest': ['', ''], 'relatives': ['ld', 'minimize', 'minimere', 'minimizar', 'minimiser']}
+{'origin': 'be', 'forged': ['be', 'VΣ'], 'suggest': ['', ''], 'relatives': ['be', 'byc', 'ole', 'bda', 'byt', 'ser']}
+{'origin': 'recognize', 'forged': ['buu', 'VUU'], 'suggest': ['', ''], 'relatives': ['buu', 'recognize']}
+{'origin': 'realize', 'forged': ['buu', 'VUU'], 'suggest': ['', ''], 'relatives': ['buu', 'realize']}
+{'origin': 'approve', 'forged': ['approve', 'ΛППROVΣ'], 'suggest': ['', ''], 'relatives': ['anumd', 'approve', 'approuver']}
+{'origin': 'develop', 'forged': ['bumuo', 'VUMUO'], 'suggest': ['', ''], 'relatives': ['bumuo', 'develop']}
+{'origin': 'utilize', 'forged': ['utilize', 'UTILIZΣ'], 'suggest': ['', ''], 'relatives': ['bruke', 'utilize', 'utilizar', 'utiliser']}
+{'origin': 'see', 'forged': ['see', 'СΣI'], 'suggest': ['se', 'СΣ'], 'relatives': ['se', 'see', 'ver', 'sien', 'sehen']}
+{'origin': 'appear', 'forged': ['vises', 'VIСΣС'], 'suggest': ['', ''], 'relatives': ['vises', 'appear']}
+{'origin': 'happen', 'forged': ['ske', 'СKΣ'], 'suggest': ['', ''], 'relatives': ['ske', 'happen']}
+{'origin': 'find', 'forged': ['find', 'FINΔ'], 'suggest': ['', ''], 'relatives': ['haa', 'vind', 'find', 'finne', 'finde', 'finden']}
+{'origin': 'lose', 'forged': ['tabe', 'TΛVΣ'], 'suggest': ['', ''], 'relatives': ['tabe', 'lose']}
+{'origin': 'replace', 'forged': ['replace', 'RΣПLΛKΣ'], 'suggest': ['', ''], 'relatives': ['zameni', 'replace', 'remplacer']}
+{'origin': 'acquire', 'forged': ['eodda', 'ΣOΔΔΛ'], 'suggest': ['', ''], 'relatives': ['eodda', 'acquire']}
+{'origin': 'pen', 'forged': ['pen', 'ПΣN'], 'suggest': ['', ''], 'relatives': ['pen', 'pena', 'penn']}
+{'origin': 'let', 'forged': ['la', 'LΛ'], 'suggest': ['', ''], 'relatives': ['la', 'let', 'las', 'laat']}
